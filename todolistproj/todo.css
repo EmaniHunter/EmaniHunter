@@ -22,6 +22,7 @@
     margin-left: 450px;
     margin-right:450px;
     font-family: Helvetica;
+    border-radius: 8px
 
   
     /* make the list items unselectable */
@@ -68,6 +69,7 @@
     right: 0;
     top: 0;
     padding: 12px 16px 12px 16px;
+    border-radius: 8px;
   }
   
   .close:hover {
@@ -115,7 +117,7 @@
     font-size: 16px;
     cursor: pointer;
     transition: 0.3s;
-    border-radius: 0;
+    border-radius: 8px;
   }
   
   .addBtn:hover {
